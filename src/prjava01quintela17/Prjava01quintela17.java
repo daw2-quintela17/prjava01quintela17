@@ -24,6 +24,7 @@ public class Prjava01quintela17 {
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
             bw.write("    Nova p&agrave;gina web de quintela17");bw.newLine();
+            bw.write("    DAW2 UF4 Pràctica2");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
